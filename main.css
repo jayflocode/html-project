@@ -146,6 +146,51 @@ table {
     max-width: 80%;
   }
 
+  .heading {
+   
+   table-layout: auto;
+   
+
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    
+  }
+
+  .heading {
+    
+    font: caption;
+    background-color: burlywood;
+     line-height: 100px;
+    font-weight: bold;
+  
+    
+
+  }
+
+  .cells {
+
+background-color: cadetblue;
+line-height: 75px;
+font: "Fira Sans", serif;
+text-align: center;
+
+
+
+
+  }
+
+  .pad {
+
+    
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+  }
+
    
 
         

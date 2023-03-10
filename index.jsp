@@ -1,9 +1,11 @@
+<%@ page contentType="text/html; charset=UTF-8" language="java" %>
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
 
     <meta charset="utf-8">
-    <title>Schedule</title>
+    <title>Fitness App Module 6</title>
     <!-- links to main.css for attribute changes -->
     <link rel="stylesheet" href="main.css">
     
@@ -17,7 +19,7 @@
     
 
 
-    <h3 class="title">Java Fitness App Schedule</h3>
+    <h3 class="title">Java Fitness App</h3>
 
     
      <!-- JavaScript button for website -->
@@ -30,7 +32,14 @@
 
     <!-- JavaScript button for website -->
 
+    <p class="welcomep">Welcome to the FitApp for Java homepage. This will be running in an Apache server for module 4.<br><br>
+    This application has the ability to create workouts, and also has the capacity to update a SQL database.<br><br>
+    Right now the application is currently using a command line interface, and will be released in a GUI in the future.
     
+    <img class="cl" src="cl.png" alt="Italian Trulli">
+
+    
+    </p>
     
     </header>
 
@@ -41,14 +50,14 @@
     <section class="hero container">
      <section>
         <h5>Developer: Jayson Flores</h5>
-        <h3>Email: <a href = "jaysonfit@icloud.com">jaysonfit@icloud.com</a></h3>
-        <p>We will answer inquiries in within 24 hours</p>
+        <h3>Market: Fitness</h3>
+        <p>Release Date: 2023</p>
      </section>
     </section>
 
     <nav  class="links">
         <a href="index.jsp">Home</a>
-        <a href="hello-servlet">Access Workout Schedule</a>
+        <a <a href="hello-servlet">Access Workout Schedule</a>
         <a href="contact.html">Contact Us</a>
       </nav>
 
